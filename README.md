@@ -44,3 +44,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Opdracht
+
+- Maak een veilingssite
+  - Meerder items
+  - Bieden gaat alleen goed als het bod hoger is dan het huidige hoogste bod

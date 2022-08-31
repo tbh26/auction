@@ -1,9 +1,11 @@
 import { configureStore } from "@reduxjs/toolkit";
 import counterReducer from "./counter/slice";
+import auctionReducer from "./auction/slice";
 import { useDispatch } from "react-redux";
 const store = configureStore({
   reducer: {
-    counter: counterReducer
+    counter: counterReducer,
+    auction: auctionReducer,
   }
 });
 
